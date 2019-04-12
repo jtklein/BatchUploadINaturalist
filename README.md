@@ -1,7 +1,7 @@
 # Medium Blog Batch Upload iNaturalist
 This is the companion repository for the blog post:
 
-<https://medium.com/@johannes.t.klein>
+<https://medium.com/@johannes.t.klein/how-to-upload-many-observations-to-inaturalist-at-once-baf5b7eb113a>
 
 The Jupyter notebook is in [batchUpload.ipynb](batchUpload.ipynb)
 
